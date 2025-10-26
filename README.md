@@ -12,14 +12,14 @@
 - Share server configurations with others
 
 ## Folder Structure
-
+```
 mcptoolbench/
 │
 ├─ MCP/                 # Your MCP server (if included in repo)
 ├─ mcp_ui.py            # Streamlit UI app
 ├─ requirements.txt     # Python dependencies
 └─ Dockerfile           # Docker configuration for deployment
-
+```
 ## Installation
 
 Clone the repository:
