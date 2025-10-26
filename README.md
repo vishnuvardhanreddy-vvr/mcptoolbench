@@ -15,9 +15,11 @@
 ```
 mcptoolbench/
 │
-├─ MCP/                 # Your MCP server (if included in repo)
-├─ mcp_ui.py            # Streamlit UI app
+├─ app/
+│└─ main.py            # Streamlit UI app
 ├─ requirements.txt     # Python dependencies
+├─ .gitignore
+├─ README.md
 └─ Dockerfile           # Docker configuration for deployment
 ```
 ## Installation
