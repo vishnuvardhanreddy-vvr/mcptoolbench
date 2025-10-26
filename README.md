@@ -27,7 +27,7 @@ mcptoolbench/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/mcptoolbench.git
+git clone https://github.com/vishnuvardhanreddy-vvr/mcptoolbench.git
 cd mcptoolbench
 ```
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## Running the App
 ```bash
-streamlit run mcp_ui.py
+streamlit run app/main.py
 ```
 
 The app will open in your default browser, allowing you to add MCP servers, explore tools, and run them interactively.
